@@ -4,7 +4,7 @@ Projects to work on in 2021 for self-learning / open source contribution.
 # Projects In Progress
 Machine Learning Practices - Practices from NTU ML course 2020
 
-Distributed 
+MIT6.824 Practices 
 
 # Tech Stack Enhancement Resources
 Machine Learning - [NTU Machine Learning Course 2020](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
