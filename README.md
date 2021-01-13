@@ -15,4 +15,7 @@ Vanilla JavaScript - [The modern JavaScript Tutorial](https://javascript.info/)
 
 MERN (MongoDB, Express JS, React JS, Node JS) - [MERN Stack: From Frontend to Backend](https://www.udemy.com/course/mern-stack-front-to-back/learn/)
 
-Golang - https://github.com/AnCheTeng/govel?fbclid=IwAR30PnEtOGJ6kkwo8tSlvCss9I4oXKcAwKJs4rPbSoa6mPjBnKHoi_C71yc
+Golang 
+
+  - [Writing Golang Web Applications](https://golang.org/doc/articles/wiki/)
+  - [Govel](https://github.com/AnCheTeng/govel?fbclid=IwAR30PnEtOGJ6kkwo8tSlvCss9I4oXKcAwKJs4rPbSoa6mPjBnKHoi_C71yc)
